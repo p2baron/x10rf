@@ -18,7 +18,6 @@ Tested on a TI Stellarpad (LM4F120H5QR) and Energia 0101E0010. This should also 
 //#include "Arduino.h"
 //#include "Energia.h"
 #include <stdlib.h>
-#include <Energia.h>
 
 class x10rf
 {
