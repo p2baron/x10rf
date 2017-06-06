@@ -12,7 +12,6 @@ Tested on a TI Stellarpad (LM4F120H5QR) and Energia 0101E0010. This should also 
 */
 
 #include <stdlib.h>
-#include <Energia.h>
 #include "x10rf.h"
 
 #define X10_RF_SB_LONG          8960 	// Start burts (leader) = 9ms
